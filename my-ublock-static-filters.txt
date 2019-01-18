@@ -1,0 +1,14 @@
+www.baidu.com##.rrecom-container
+www.baidu.com##[class="c-gap-top c-recommend"]
+www.baidu.com###content_right
+www.baidu.com###rs
+www.baidu.com##[class="result-op xpath-log"]
+www.baidu.com##[class="hint_toprq_tips f13 se_common_hint"]
+www.baidu.com###rs_top_new
+mail.163.com###yanxuanMboxAd
+mail.126.com,mail.163.com#@#div[id$="_dvBlockInfo"]
+mail.163.com##div[id$="_dvTabs"]
+mail.163.com##div[id$="_succAd"]
+
+live.bilibili.com##.ts-dot-4.floating.z-live-haruna.live-haruna-ctnr
+cn.bing.com###ev_talkbox_wrapper
