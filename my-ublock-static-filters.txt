@@ -9,14 +9,26 @@ mail.163.com###yanxuanMboxAd
 mail.126.com,mail.163.com#@#div[id$="_dvBlockInfo"]
 mail.163.com##div[id$="_dvTabs"]
 mail.163.com##div[id$="_succAd"]
+mail.163.com##li[id="_mail_tabitem_3_6"]
+mail.163.com##li[id="_mail_tabitem_4_11"]
 
 live.bilibili.com##.ts-dot-4.floating.z-live-haruna.live-haruna-ctnr
 cn.bing.com###ev_talkbox_wrapper
+www.bing.com###ev_talkbox_wrapper
+www4.bing.com###ev_talkbox_wrapper
 
 ||geo.adobe.com
 ||geo2.adobe.com
 ||flash.cn
 
+www.bilibili.com###slide_ad
 player.bilibili.com##.bilibili-player-video-pause-panel-container
 player.bilibili.com##.bilibili-player-video-recommend
 player.bilibili.com##.bilibili-player-video-sendjumpbar
+
+||qq.com/*.mp4?*&platform=10201&*
+||qq.com/*.mp4?platform=10201&*
+||qq.com/*.mp4?*&platform=10201
+||dp3.qq.com/stdlog
+||report.huatuo.qq.com/report.cgi*
+||routertips.video.qq.com
