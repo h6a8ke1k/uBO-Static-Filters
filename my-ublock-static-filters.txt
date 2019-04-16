@@ -14,10 +14,22 @@ mail.163.com##li[id="_mail_tabitem_3_6"]
 mail.163.com##li[id="_mail_tabitem_4_11"]
 mail.163.com###dvRightCornerPopup
 
-live.bilibili.com##.ts-dot-4.floating.z-live-haruna.live-haruna-ctnr
 cn.bing.com###ev_talkbox_wrapper
 www.bing.com###ev_talkbox_wrapper
 www4.bing.com###ev_talkbox_wrapper
+
+cn.bing.com###ads_banner
+www.bing.com###ads_banner
+www4.bing.com###ads_banner
+cn.bing.com##.top_ad.ads_dwn
+www.bing.com##.top_ad.ads_dwn
+www4.bing.com##.top_ad.ads_dwn
+cn.bing.com##.center_ad.ads_dwn
+www.bing.com##.center_ad.ads_dwn
+www4.bing.com##.center_ad.ads_dwn
+cn.bing.com##.bottom_ad.ads_dwn
+www.bing.com##.bottom_ad.ads_dwn
+www4.bing.com##.bottom_ad.ads_dwn
 
 ||geo.adobe.com
 ||geo2.adobe.com
@@ -27,6 +39,7 @@ www.bilibili.com###slide_ad
 player.bilibili.com##.bilibili-player-video-pause-panel-container
 player.bilibili.com##.bilibili-player-video-recommend
 player.bilibili.com##.bilibili-player-video-sendjumpbar
+live.bilibili.com##.ts-dot-4.floating.z-live-haruna.live-haruna-ctnr
 
 ||qq.com/*.mp4?*&platform=10201&*
 ||qq.com/*.mp4?platform=10201&*
