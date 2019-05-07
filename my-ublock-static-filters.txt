@@ -30,6 +30,9 @@ www4.bing.com##.center_ad.ads_dwn
 cn.bing.com##.bottom_ad.ads_dwn
 www.bing.com##.bottom_ad.ads_dwn
 www4.bing.com##.bottom_ad.ads_dwn
+cn.bing.com###b_opalpers
+www.bing.com###b_opalpers
+www4.bing.com###b_opalpers
 
 ||geo.adobe.com
 ||geo2.adobe.com
