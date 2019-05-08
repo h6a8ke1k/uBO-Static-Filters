@@ -14,31 +14,15 @@ mail.163.com##li[id="_mail_tabitem_3_6"]
 mail.163.com##li[id="_mail_tabitem_4_11"]
 mail.163.com###dvRightCornerPopup
 
-cn.bing.com###ev_talkbox_wrapper
-www.bing.com###ev_talkbox_wrapper
-www4.bing.com###ev_talkbox_wrapper
+cn.bing.com,www.bing.com,www4.bing.com###ev_talkbox_wrapper
 
-cn.bing.com###ads_banner
-www.bing.com###ads_banner
-www4.bing.com###ads_banner
-cn.bing.com##.top_ad.ads_dwn
-www.bing.com##.top_ad.ads_dwn
-www4.bing.com##.top_ad.ads_dwn
-cn.bing.com##.center_ad.ads_dwn
-www.bing.com##.center_ad.ads_dwn
-www4.bing.com##.center_ad.ads_dwn
-cn.bing.com##.bottom_ad.ads_dwn
-www.bing.com##.bottom_ad.ads_dwn
-www4.bing.com##.bottom_ad.ads_dwn
-cn.bing.com###b_opalpers
-www.bing.com###b_opalpers
-www4.bing.com###b_opalpers
-cn.bing.com##div > .b_re
-www.bing.com##div > .b_re
-www4.bing.com##div > .b_re
-cn.bing.com##.b_rrsr
-www.bing.com##.b_rrsr
-www4.bing.com##.b_rrsr
+cn.bing.com,www.bing.com,www4.bing.com###ads_banner
+cn.bing.com,www.bing.com,www4.bing.com##.top_ad.ads_dwn
+cn.bing.com,www.bing.com,www4.bing.com##.center_ad.ads_dwn
+cn.bing.com,www.bing.com,www4.bing.com##.bottom_ad.ads_dwn
+cn.bing.com,www.bing.com,www4.bing.com###b_opalpers
+cn.bing.com,www.bing.com,www4.bing.com##div > .b_re
+cn.bing.com,www.bing.com,www4.bing.com##.b_rrsr
 
 ||geo.adobe.com
 ||geo2.adobe.com
