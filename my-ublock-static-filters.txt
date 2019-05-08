@@ -33,6 +33,12 @@ www4.bing.com##.bottom_ad.ads_dwn
 cn.bing.com###b_opalpers
 www.bing.com###b_opalpers
 www4.bing.com###b_opalpers
+cn.bing.com##div > .b_re
+www.bing.com##div > .b_re
+www4.bing.com##div > .b_re
+cn.bing.com##.b_rrsr
+www.bing.com##.b_rrsr
+www4.bing.com##.b_rrsr
 
 ||geo.adobe.com
 ||geo2.adobe.com
